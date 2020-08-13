@@ -8,7 +8,7 @@ Removing 'oggy' from list will make the world better and cool.
 
 ## Method
 
-The idea is to use the Iterator for looping through the list collection. 
+The idea is to use the Iterator for looping through the list collection.
 The iterator() method in Java is used to get an Iterator for the list collection.
 To loop through the list, the hasNext() and next() methods of the Iterator are used in the method.
 
